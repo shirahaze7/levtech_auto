@@ -2,12 +2,12 @@
 レバテックプラットフォームに自動入力
 
 # 使い方
-1, 作業時間ファイルを/home/shirahaze/Documents/levtech_auto/excelFileに置く
+1, 作業時間ファイルを/home/shirahaze/Documents/levtech_auto/excelFileに置く  
 
 コンソール作業  
-2, cd /home/shirahaze/Documents/levtech_auto/src
-3, node convert.js
-4, output.jsが出力される
+2, cd /home/shirahaze/Documents/levtech_auto/src  
+3, node convert.js  
+4, output.jsが出力される  
 
 ブラウザ作業  
 5, ブラウザでレバテックプラットフォームの作業報告入力画面開く  
