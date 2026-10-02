@@ -4,7 +4,7 @@
 # 使い方
 1, 作業時間ファイルを/home/shirahaze/Documents/levtech_auto/excelFileに置く
 
-コンソール作業
+コンソール作業  
 2, cd /home/shirahaze/Documents/levtech_auto/src
 3, node convert.js
 4, output.jsが出力される
